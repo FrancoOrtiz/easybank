@@ -17,6 +17,7 @@ header{
 }
 
 .btn__nav{
+    outline: none;
     background-color: var(--white);
     border: none;
 }
@@ -77,6 +78,11 @@ header{
 }
 
 @media screen and (min-width: 960px){
+
+    .display__media{
+        display: none;
+    }
+
     .btn__nav{
         display: none;
     }
