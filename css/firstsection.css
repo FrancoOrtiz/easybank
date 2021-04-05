@@ -4,7 +4,7 @@
 
 .firstsection__imgs{
     width: 100%;
-    background-image: url(/images/bg-intro-mobile.svg);
+    background-image: url(./images/bg-intro-mobile.svg);
     background-repeat: no-repeat;
     background-position-y: -1.8em;
     background-size: 100%;
@@ -71,7 +71,7 @@
     
     .firstsection__imgs{
         width: 60%;
-        background-image: url(/images/bg-intro-desktop.svg);
+        background-image: url(./images/bg-intro-desktop.svg);
         background-repeat: no-repeat;
         background-position-y: -14em;
         background-position-x: -2em;
